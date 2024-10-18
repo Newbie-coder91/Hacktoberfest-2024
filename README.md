@@ -66,21 +66,19 @@ Follow these steps to get started with your first contribution:
 
 2\. **Clone the repository** to your local machine:
 
-   ```bash
+   ```
 
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Devolvee/Hacktoberfest-2024.git
 1.  **Navigate to the repository** directory:
 
-    bash
-
+    
     Copy code
 
-    `cd your-repo-name`
+    `cd Hacktoberfest-2024`
 
 2.  **Create a new branch** to work on:
 
-    bash
-
+    
     Copy code
 
     `git checkout -b my-first-branch`
@@ -88,24 +86,21 @@ Follow these steps to get started with your first contribution:
 3.  **Make changes** to the project as per your contribution.
 4.  **Stage the changes**:
 
-    bash
-
+    
     Copy code
 
     `git add .`
 
 5.  **Commit your changes** with a descriptive message:
 
-    bash
-
+    
     Copy code
 
     `git commit -m "My first open-source contribution"`
 
 6.  **Push** your changes to GitHub:
 
-    bash
-
+    
     Copy code
 
     `git push origin my-first-branch`
@@ -115,7 +110,7 @@ Follow these steps to get started with your first contribution:
 🤝 Contribution Guidelines
 --------------------------
 
-We encourage you to contribute to this repository! Whether it's improving documentation, fixing a bug, or adding new features, every contribution is valuable. To make a contribution:
+We encourage you to contribute to this repository! Every contribution is valuable, whether it's improving documentation, fixing a bug, or adding new features. To contribute:
 
 1.  Fork the repository.
 2.  Create a branch for your contribution.
@@ -149,7 +144,6 @@ For more details, visit the official [Hacktoberfest website](https://hacktoberfe
 
 If you have any questions or need assistance, feel free to reach out during the workshop or contact me via:
 
--   **Email**: abcd@gmail.com
 -   **LinkedIn**: [Kartik Gupta](https://www.linkedin.com/in/kg-0805/)
 
 Let's collaborate and contribute to open-source together! 💻✨
