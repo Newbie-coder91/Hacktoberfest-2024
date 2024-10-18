@@ -117,7 +117,6 @@ We encourage you to contribute to this repository! Every contribution is valuabl
 3.  Make your changes.
 4.  Open a pull request describing your changes.
 
-Please ensure your contributions are meaningful and relevant to the project. For more information, see the [Contribution Guide](CONTRIBUTING.md).
 
 🏅 Hacktoberfest Participation
 ------------------------------
